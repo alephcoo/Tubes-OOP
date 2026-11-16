@@ -1,0 +1,25 @@
+# Map Type A: Green Garden (14 kolom x 10 baris)
+#
+# Legenda:
+#   W = Indestructible Block
+#   D = Destructible Block
+#   R = Reinforced Block
+#   P = Spawn pemain (Player)
+#   E = Normal Enemy
+#   B = Boss (Draco)
+#   X = Exit
+#   _ = Tile kosong
+#
+# Koordinat: baris 0 = atas, kolom 0 = kiri (0-indexed di kode)
+
+WWWWWWWWWWWWWW
+WP__D_____D__W
+W_W_W_WW_W_W_W
+W__D______D__W
+W_W_WW__WW_W_W
+W____E__E____W
+W_W_WW__WW_W_W
+W__D______D__W
+W_W_W_WW_W_W_W
+W___D_B__DX__W
+WWWWWWWWWWWWWW
